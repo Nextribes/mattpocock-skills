@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Archived.** Nextribes' AI SWE process now lives in [Nextribes/playbook](https://github.com/Nextribes/playbook). This repo is archived and kept read-only for history.
+>
+> playbook vendors the skills it uses from upstream [mattpocock/skills](https://github.com/mattpocock/skills) at a pinned commit, so nobody installs this fork any more.
+
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">
     <picture>
